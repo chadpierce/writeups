@@ -1,2 +1,2 @@
 # writeups
-Writeups for Capture the Flag competititions, etc.
+Writeups for Capture the Flag competitions, etc.
